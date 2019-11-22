@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="play">Начать игру</string>
+    <string name="account">Личный кабинет</string>
+    <string name="settings">Настройки</string>
+    <string name="title">QuizOn</string>
+</resources>
